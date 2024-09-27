@@ -43,7 +43,7 @@ const events = [
 </script>
 
 <template>
-  <v-container class="">
+  <v-container class="mb-10">
     <swiper-container
       :autoplay="true"
       space-between="30"

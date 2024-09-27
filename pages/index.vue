@@ -4,5 +4,6 @@
   <div>
     <HeroSectionComp />
     <AfterHeroeCarousel />
+    <MiniAboutComp />
   </div>
 </template>
