@@ -9,7 +9,7 @@ onMounted(()=>{
 
 <template>
  <v-container>
-    <div class="grid lg:grid-cols-2 gap-x-8 gap-y-10 md:my-[100px] justify-center px-5">
+    <div class="grid lg:grid-cols-2 gap-x-8 gap-y-10 md:mt-[100px] mb-[50px] lg:mb-2 justify-center px-5">
     <div class="bg-[url('~/assets/images/about-1-bg.png')] lg:bg-right bg-center relative">
         <v-img src="~/assets/images/about-1.jpg" class="!md:max-w-md w-full mx-auto absolute lg:-top-20 " data-aos="fade-up" />
     </div>
