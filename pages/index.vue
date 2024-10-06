@@ -6,5 +6,7 @@
     <AfterHeroeCarousel />
     <MiniAboutComp />
     <MiniDonateComp />
+    <MiniOurMinistry />
   </div>
+
 </template>

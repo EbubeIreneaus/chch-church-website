@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-import { tryResolveModule } from "nuxt/kit";
 import { register } from "swiper/element/bundle";
 register();
 const events = [
@@ -48,7 +47,7 @@ const events = [
       :autoplay="true"
       space-between="30"
       loop
-      :slide-per-view="1"
+      :slides-per-view="1"
       :breakpoints="{
         640: {
           slidesPerView: 2,
